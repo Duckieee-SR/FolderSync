@@ -7,4 +7,4 @@ Source and Destination file 𝐌𝐔𝐒𝐓 exist. Use Ctrl + c to exit the pro
 
 Example: py "c:/Directory/Directory/File.py" -s 'c:\Directory\Directory\SourceDirectory' -d 'c:\Directory\Directory\DestinationDirectory' -l 'c:\Directory\Directory\LogFile.log' -t 5(TimeInSeconds)
 
-𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐞 𝟏.𝟐.𝟎 𝐦𝐢𝐠𝐡𝐭 𝐛𝐞 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐝. 𝐈𝐭 𝐜𝐚𝐧 𝐛𝐞 𝐟𝐨𝐮𝐧𝐝 𝐡𝐞𝐫𝐞: "𝐡𝐭𝐭𝐩𝐬://𝐩𝐲𝐩𝐢.𝐨𝐫𝐠/𝐩𝐫𝐨𝐣𝐞𝐜𝐭/𝐬𝐜𝐡𝐞𝐝𝐮𝐥𝐞/"
+𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐒𝐜𝐡𝐞𝐝𝐮𝐥𝐞 𝟏.𝟐.𝟎 𝐦𝐢𝐠𝐡𝐭 𝐛𝐞 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐝. 𝐈𝐭 𝐜𝐚𝐧 𝐛𝐞 𝐟𝐨𝐮𝐧𝐝 𝐡𝐞𝐫𝐞: https://pypi.org/project/schedule/
