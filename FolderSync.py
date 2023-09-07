@@ -111,7 +111,7 @@ def SyncFolders(src, dst):
                 app_log.info('File %s removed.' % os.path.join(dst, item))
 
 
-# Call function to sync directories
+# Call function to sync directories every args.time seconds
 schedule.every(args.time).seconds.do(SyncFolders, src, dst)
 
 # Loop to run the schedule
